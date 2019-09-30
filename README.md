@@ -8,3 +8,8 @@ The Projects will include things like:
 * App Dev
 * Software Dev
 * Hacking Tools
+
+Current Member(s) of CSBar:
+
+Roshan Lamichhane (the founder of CSBar)
+Github Links: @roshanlam and @roshancode
