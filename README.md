@@ -13,5 +13,5 @@ Current Member(s) of CSBar:
 
 Roshan Lamichhane (the founder of CSBar)
 
-Github Links: [@RoshanCode!](https://github.com/roshancode) | 
-[@RoshanLam!](https://github.com/roshanlam)
+Github Links: [@RoshanCode](https://github.com/roshancode) | 
+[@RoshanLam](https://github.com/roshanlam)
