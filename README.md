@@ -8,6 +8,7 @@ The Projects will include things like:
 * App Dev
 * Software Dev
 * Hacking Tools
+* Mathematics (Calculus, linear algerba etc)
 
 Current Member(s) of CSBar:
 
